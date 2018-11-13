@@ -1,6 +1,9 @@
 /**
 * Contains code to set up a chat room server that can accept incoming connection from clients.
 * Also deals with clients while they are connected to the server, as well as sending/receiving information from said clients.
+*
+* Completed for an assignment at the University of Liverpool.
+*
 * @author	Alex Westcott
 * @version	1.0
 * @since	2017-12-02
