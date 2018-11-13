@@ -2,6 +2,9 @@
 * Contains code to set up a chat room client that connects to a chat room server.
 * Also responsible for sending and receiving information from the Server class.
 * Can be multiple instances of Client connected to one Server at once.
+*
+* Completed for an assignment at the University of Liverpool in 2017.
+*
 * @author	Alex Westcott
 * @version	1.0
 * @since	2017-12-02
